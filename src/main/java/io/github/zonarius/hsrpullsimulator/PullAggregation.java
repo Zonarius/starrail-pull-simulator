@@ -1,4 +1,4 @@
-package party.zonarius.hsr.pullsimulator;
+package io.github.zonarius.hsrpullsimulator;
 
 public class PullAggregation {
     private final long[] aggregatePulls = new long[180];

@@ -1,6 +1,5 @@
-package party.zonarius.hsr.pullsimulator;
+package io.github.zonarius.hsrpullsimulator;
 
-import java.util.Random;
 import java.util.random.RandomGenerator;
 
 public class Account {

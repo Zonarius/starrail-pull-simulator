@@ -1,3 +1,12 @@
+# Honkai Star Rail Pull Simulator
+Simulates 100 million accounts pulling until they get a limited 5 star unit.
+
+# Sources for Pull Chances
+https://www.reddit.com/r/HonkaiStarRail/comments/1crvz0s/gacha_math_you_have_a_356_chance_of_getting_a_5/
+
+https://starrailstation.com/en/warp#global (50/50 is actually 58/42)
+
+
 # Results
 https://docs.google.com/spreadsheets/d/10vRc8_7Y0zt2OT0ON3uS97ZnuAoym5UB7fHUFmgqeYo/edit?gid=945019410#gid=945019410
 

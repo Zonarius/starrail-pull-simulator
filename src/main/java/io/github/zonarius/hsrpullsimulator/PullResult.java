@@ -1,4 +1,4 @@
-package party.zonarius.hsr.pullsimulator;
+package io.github.zonarius.hsrpullsimulator;
 
 public enum PullResult {
     FOUR_STAR,

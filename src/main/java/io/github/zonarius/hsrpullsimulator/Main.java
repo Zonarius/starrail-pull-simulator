@@ -1,10 +1,10 @@
-package party.zonarius.hsr.pullsimulator;
+package io.github.zonarius.hsrpullsimulator;
 
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.IntStream;
 
 public class Main {
-    private static AtomicInteger millions = new AtomicInteger();
+    private static final AtomicInteger millions = new AtomicInteger();
     public static void main(String[] args) {
         PullAggregation pullAggregation = IntStream.range(0, 100)
             .parallel()
