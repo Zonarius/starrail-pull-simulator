@@ -9,11 +9,19 @@ https://starrailstation.com/en/warp#global (50/50 is actually 58/42)
 # Results
 https://docs.google.com/spreadsheets/d/10vRc8_7Y0zt2OT0ON3uS97ZnuAoym5UB7fHUFmgqeYo/edit?gid=945019410#gid=945019410
 
+## Aggregates
+
 Total Simulations: **100,000,000**
 
 Total Pulls: **8,846,166,043**
 
 Average number of pulls to get a limited unit: **88,46166043**
+
+## Histogram
+
+![histogram](histogram.png)
+
+## Detailed Results
 
 | Pulls | Simulations ended | Percentage | Cumulative Percentage |
 |-------|-------------------|------------|-----------------------|
